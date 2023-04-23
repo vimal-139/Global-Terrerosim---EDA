@@ -11,10 +11,10 @@ The time-period of dataset which we have taken is (January 1970 - December 2017)
 The database includes 1,81,691 terrorist attacks between Jan 1970 - Dec 2017 and each recorded attack describes the date, day, month, year, country, region, city, coordinates, success, attacktype, target type, name and weapon type. We are adding a new keyword which gives the total number of terroris attacks each country had per year. 
 
 # Technology Stack
-Python
-Flask 
-Numpy
-Matplotlib
-Pandas 
-Power BI
-Git and GitHub
+* Python
+* Flask 
+* Numpy
+* Matplotlib
+* Pandas 
+* Power BI
+* Git and GitHub
