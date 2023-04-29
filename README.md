@@ -16,5 +16,4 @@ The database includes 1,81,691 terrorist attacks between Jan 1970 - Dec 2017 and
 * Numpy
 * Matplotlib
 * Pandas 
-* Power BI
 * Git and GitHub
